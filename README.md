@@ -13,7 +13,7 @@
 -	Maven (version 3.6.1)
 -	Tomcat (version 9.0.22) but not included. As a result please download yourself 
 -	Bootstrap (version 4.3.1)
-Other components are used according to “pom.xml” in the project
+- Other components are used according to “pom.xml” in the project
 
 ## How to install
 please import as a maven project
